@@ -3,3 +3,4 @@
 # @Author : 陈文龙
 # @File : second.py
 # @Software : PyCharm
+print("1")
